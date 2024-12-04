@@ -23,12 +23,12 @@ Historical10 ensembles
 piControl
 
  ---
-![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/1.png)
+
 
 
 ---
 ![random fig2](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
-
+Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
 ---
 ![fig3](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/eof8.png)
 ---
