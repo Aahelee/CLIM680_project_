@@ -27,6 +27,7 @@ piControl
 
 
 ---
+![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
 
 ---
 
