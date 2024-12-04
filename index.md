@@ -34,11 +34,11 @@ piControl
 ---
 
 ---
-![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
+![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/pc3.png)
 ---
-![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
+![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/dis.png)
 ---
-![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
+![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/var_ratio.png)
 
 
 
