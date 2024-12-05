@@ -2,7 +2,12 @@ Assessing Variability in Historical and piControl Sea Surface Temperature Data U
 ---
 ## Introduction
 
+<img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src="https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5a">
+_Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
 
+
+<img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src=https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png>
+_Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
 ---
 Data Description:
 The dataset used is from CMIP6, utilizing the IPSL-CM5A2-INCA model. 
