@@ -82,14 +82,14 @@ Figure 4: Criterion for selecting the number of EOFs
 
 ---
 ![ratio](https://github.com/user-attachments/assets/0f2326d4-e424-4ebe-8f4a-4e33ebe4ab55)
-Figure 4: Ratio of the Fraction of Variance Explained by the EOFs of Historical and piControl
+Figure 5: Ratio of the Fraction of Variance Explained by the EOFs of Historical and piControl
 
 To test the significance of the variance ratios of the historical and piControl, a Monte Carlo test was done. The goal here is to understand if the differences you see between two datasets (historical and control in this case) are truly meaningful or just random noise. The Monte Carlo method runs a lot of “what if” scenarios to establish a baseline. A fairly large
 Number of synthetic datasets are created that have similar statistical properties. By generating these random datasets and analyzing them, a "background noise" benchmark is created. When the variance ratio of the historical and control data are compared against this background of random variations, the results show which differences are statistically significant. The results show that only the variance ration for the first EOF was significantly different for historical and control run. Figure 5 shows the significance of the first 10 EOFs, which were the optimal number of EOFs. Only the first variance ratio is significantly hisher than the signicance range. The results imply that the variance ratio between the datasets are significant. In other they have significantly different variability, which has to an influence form external forcings. 
 
 ![var_ratio](https://github.com/user-attachments/assets/2ea2034d-16d6-4e3e-ad0e-5d85358db5a1)
 
-Figure 5: Discriminant Ratios between historical and control simulations.
+Figure 6: Discriminant Ratios between historical and control simulations.
 
 For a smaller ensemble of 3 members, the optimal EOF number was 7, with variance ratios being almost the same and significance found only in the first EOF.
 
