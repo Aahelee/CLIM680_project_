@@ -37,14 +37,10 @@ The dataset contains monthly values converted to annual Sea Surface Temperature 
 After importing SST data from 10 ensembles, they were combined with the control run to calculate Empirical Orthogonal Functions (EOFs). The patterns found are common to both historical and control runs, but the principal component (PC) time series differ. This calculation was performed for 50 ensembles. Notably, the first EOF does not explain the maximum variance of historical or piControl data. Instead, it maximizes the variance ratio between historical and piControl data. The first EOF resembles an El Niño pattern, while the second EOF shows a Pacific Decadal Oscillation pattern. Figure 2 displays the first 8 EOFs. 
 
 
----
-![random fig2](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
-Spatial and Temporal Resolution:
-Initial Resolution: 100km
-Regirded into 1 degree
-Initial Time Resolution: monthly
+![random fig1](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
+
 Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
-Converted into annu
+
 
 Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
 ---
