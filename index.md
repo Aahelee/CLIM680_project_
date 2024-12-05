@@ -29,9 +29,11 @@ piControl
 ---
 The goal of the project is to test whether historical data exhibits more variability than the control run. If the historical data shows significantly greater variability, it would suggest an influence from external factors beyond internal processes.
 
-Historical Run: A simulation of past climate conditions (e.g., 1850–present) using observed external forcings.
-Ensemble: A set of model simulations with varied initial conditions or parameters to assess variability and uncertainty.
-piControl Run: A pre-industrial control run simulating a stable climate with fixed pre-1850 forcings for baseline comparisons.
+**Historical Run**: A simulation of past climate conditions (e.g., 1850–present) using observed external forcings.
+
+**Ensemble**: A set of model simulations with varied initial conditions or parameters to assess variability and uncertainty.
+
+**piControl Run**: A pre-industrial control run simulating a stable climate with fixed pre-1850 forcings for baseline comparisons.
 
 ---
 ## Results and Analysis
