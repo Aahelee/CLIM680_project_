@@ -82,6 +82,12 @@ For a smaller ensemble of 3 members, the optimal EOF number was 7, with variance
 ---
 ## Summary 
 
+This project explores the variability of Sea Surface Temperature (SST) using the IPSL-CM5A2-INCA model from CMIP6, comparing historical runs with pre-industrial control runs (piControl). The goal is to identify significant differences in SST variability and understand how external forcings influence these patterns.
+
+Empirical Orthogonal Functions (EOFs) were calculated to capture dominant modes of variability in SST. The first EOF, resembling an El Niño pattern, was designed to maximize the variance ratio between historical and piControl runs rather than explaining the maximum variance in either dataset. Other EOFs, such as one resembling the Pacific Decadal Oscillation, reveal additional important patterns. Mutual Information Criterion (MIC) analysis determined that 10 EOFs optimally describe the variability in the dataset, balancing complexity with explanatory power. For smaller ensembles, the optimal number of EOFs was 7.
+
+A Monte Carlo test was performed to evaluate the significance of variance ratios between the two datasets. This method generated random synthetic datasets to establish a baseline for "background noise." The results showed that only the variance ratio for the first EOF was significantly higher in the historical runs, indicating that external forcings, such as greenhouse gas emissions, likely drive this increased variability.
+
 Limitation: The Monte Carlo test assumes the data is independent and identically distributed (i.i.d.), which is not true for annual mean SST data. The degree of freedom is lower than assumed, potentially broadening the actual significance limit and uncertainty range. A future improvement would be to employ a significance testing method that does not assume i.i.d. conditions.
 
 
