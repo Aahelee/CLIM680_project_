@@ -45,6 +45,7 @@ The goal of the project is to test whether historical data exhibits more variabi
 
 **piControl Run**: A pre-industrial control run simulating a stable climate with fixed pre-1850 forcings for baseline comparisons.
 
+[Jupyter Notebook Link](https://github.com/Aahelee/CLIM680_project_/blob/main/Regridding_data.ipynb)
 ---
 ## Results and Analysis
 
