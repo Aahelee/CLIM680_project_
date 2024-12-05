@@ -1,6 +1,6 @@
 title
 ---
-Introduction
+## Introduction
 
 Understanding the sources of Sea Surface Temperature (SST) variability is a crucial first step in unraveling the climate dynamics that drive it. In recent years, ocean temperatures have been rising globally. This project seeks to determine whether variability in model data differs significantly from that in piControl data. The method employed here can also be used to address questions such as when the variability becomes significantly different and what common patterns exist between the two datasets. Additionally, this approach can be applied at a local scale to investigate whether variability in specific study areas has changed.
 ---
@@ -52,12 +52,8 @@ Figure 3 shows the PC time series for the first three EOFs across the control ru
 
 ![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/pc3.png)
 
-Spatial and Temporal Resolution:
-Initial Resolution: 100km
-Regirded into 1 degree
-Initial Time Resolution: monthly
 Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
-Converted into annu
+
 ---
 Mutual information Criterion (MIC) was used to determine the optimal number of EOFs for comparison. The Maximum Information Criterion provides a systematic approach by balancing how well a model explains the data against the complexity of the model. The core philosophy is to balance two competing objectives: Model Complexity and Model Fit/Explanation of Variance. The Information Criteria method works by calculating how well the model explains the data and simultaneously penalizing the added number of parameter. It creates a score that combines these two aspects. Initially adding more parameter explains more variance while keeping the mic low. But after a certain points adding a new parameter adds more penalty than it explain the variance. Figure 4 shows the discrimination values for all 50 EOFs calculated. For this analysis the optimal number of EOF was found to be 10, where the data is best explained by the model. 
 
