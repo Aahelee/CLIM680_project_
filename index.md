@@ -81,6 +81,8 @@ Mutual information Criterion (MIC) was used to determine the optimal number of E
 Figure 4: Criterion for selecting the number of EOFs
 
 ---
+## Solving a generalized Eigen Value Problem
+
 ![ratio](https://github.com/user-attachments/assets/0f2326d4-e424-4ebe-8f4a-4e33ebe4ab55)
 
 Figure 5: Ratio of the Fraction of Variance Explained by the EOFs of Historical and piControl
