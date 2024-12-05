@@ -45,20 +45,20 @@ After importing SST data from 10 ensembles, they were combined with the control 
 
 ![random fig1](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png)
 
-Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
+Figure 1: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
 
 ---
 After importing SST data from 10 ensembles, they were combined with the control run to calculate Empirical Orthogonal Functions (EOFs). The patterns found are common to both historical and control runs, but the principal component (PC) time series differ. This calculation was performed for 50 ensembles. Notably, the first EOF does not explain the maximum variance of historical or piControl data. Instead, it maximizes the variance ratio between historical and piControl data. The first EOF resembles an El Niño pattern, while the second EOF shows a Pacific Decadal Oscillation pattern. Figure 2 displays the first 8 EOFs. 
 
 ![fig3](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/eof8.png)
 
-Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
+Figure 2: The first 3 Principal Components Across 3 Ensembles and Control Run.
 
 Figure 3 shows the PC time series for the first three EOFs across the control run and three ensemble members. The first PC exhibits visibly different variability compared to the control run. The second is more nuanced, and from the third onward, they begin to look more similar.
 
 ![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/pc3.png)
 
-Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
+Figure 3: First Eight EOFs of the pooled SST Data.
 
 ---
 Mutual information Criterion (MIC) was used to determine the optimal number of EOFs for comparison. The Maximum Information Criterion provides a systematic approach by balancing how well a model explains the data against the complexity of the model. The core philosophy is to balance two competing objectives: Model Complexity and Model Fit/Explanation of Variance. The Information Criteria method works by calculating how well the model explains the data and simultaneously penalizing the added number of parameter. It creates a score that combines these two aspects. Initially adding more parameter explains more variance while keeping the mic low. But after a certain points adding a new parameter adds more penalty than it explain the variance. Figure 4 shows the discrimination values for all 50 EOFs calculated. For this analysis the optimal number of EOF was found to be 10, where the data is best explained by the model. 
@@ -66,7 +66,7 @@ Mutual information Criterion (MIC) was used to determine the optimal number of E
 ![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/dis.png)
 
 
-Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
+Figure 4: Criterion for selecting the number of EOFs
 
 
 ---
@@ -75,7 +75,7 @@ Number of synthetic datasets are created that have similar statistical propertie
 
 ![random fig](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/var_ratio.png)
 
-Figure: Difference between the annual mean temperature of Historical data (1 ensmeble) and piControl data for different years.
+Figure 5: Discriminant Ratios between historical and control simulations.
 
 For a smaller ensemble of 3 members, the optimal EOF number was 7, with variance ratios being almost the same and significance found only in the first EOF.
 
