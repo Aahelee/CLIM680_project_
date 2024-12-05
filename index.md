@@ -1,4 +1,4 @@
-title
+Assessing Variability in Historical and piControl Sea Surface Temperature Data Using Covariance Discriminant Analysis
 ---
 ## Introduction
 
