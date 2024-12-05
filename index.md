@@ -4,7 +4,11 @@ Assessing Variability in Historical and piControl Sea Surface Temperature Data U
 
 <img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src="https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5a">
 _Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
+<img width="1710" alt="Screenshot 2024-11-20 at 1 42 47 PM" src="https://github.com/user-attachments/assets/f82c7731-d5d5-455c-9918-c749385c3cfb">
 
+<img width="1710" alt="Screenshot 2024-11-20 at 1 42 13 PM" src="https://github.com/user-attachments/assets/f140a701-4ace-4651-bbee-8be2da77bd9d">
+
+<img width="1710" alt="Screenshot 2024-11-20 at 1 44 45 PM" src="https://github.com/user-attachments/assets/d8885c80-08c1-4ba0-93a1-89b2c12f6977">
 
 <img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src=https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png>
 _Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
