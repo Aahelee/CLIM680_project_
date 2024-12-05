@@ -33,7 +33,8 @@ Time Span:
 The dataset covers the period from 1850 to 2014.
 
 Data type: 
-Historical10 ensembles
+Historical-10 ensembles
+
 piControl
 
 ---
@@ -73,7 +74,7 @@ Figure 3 shows the PC time series for the first three EOFs across the control ru
 Figure 3: First Eight EOFs of the pooled SST Data.
 
 ---
-Mutual information Criterion (MIC) was used to determine the optimal number of EOFs for comparison. The Maximum Information Criterion provides a systematic approach by balancing how well a model explains the data against the complexity of the model. The core philosophy is to balance two competing objectives: Model Complexity and Model Fit/Explanation of Variance. The Information Criteria method works by calculating how well the model explains the data and simultaneously penalizing the added number of parameter. It creates a score that combines these two aspects. Initially adding more parameter explains more variance while keeping the mic low. But after a certain points adding a new parameter adds more penalty than it explain the variance. Figure 4 shows the discrimination values for all 50 EOFs calculated. For this analysis the optimal number of EOF was found to be 10, where the data is best explained by the model. 
+Mutual information Criterion (MIC) was used to determine the optimal number of EOFs for comparison. The Mutual Information Criterion provides a systematic approach by balancing how well a model explains the data against the complexity of the model. The core philosophy is to balance two competing objectives: Model Complexity and Model Fit/Explanation of Variance. The Information Criteria method works by calculating how well the model explains the data and simultaneously penalizing the added number of parameter. It creates a score that combines these two aspects. Initially adding more parameter explains more variance while keeping the mic low. But after a certain points adding a new parameter adds more penalty than it explain the variance. Figure 4 shows the discrimination values for all 50 EOFs calculated. For this analysis the optimal number of EOF was found to be 10, where the data is best explained by the model. 
 
 ![dis](https://github.com/user-attachments/assets/eb871262-0bf4-4378-9538-37ca5f1ddfc6)
 
