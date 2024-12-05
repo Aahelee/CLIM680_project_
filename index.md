@@ -79,7 +79,7 @@ Figure 5: Discriminant Ratios between historical and control simulations.
 
 For a smaller ensemble of 3 members, the optimal EOF number was 7, with variance ratios being almost the same and significance found only in the first EOF.
 
-[the text](https://github.com/Aahelee/CLIM680_project_/blob/main/covariance_discriminant_analysis.ipynb)
+[Jupyter Notebook Link](https://github.com/Aahelee/CLIM680_project_/blob/main/covariance_discriminant_analysis.ipynb)
 ---
 ## Summary 
 
