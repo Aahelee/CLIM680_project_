@@ -2,7 +2,7 @@ title
 ---
 ## Introduction
 
-Understanding the sources of Sea Surface Temperature (SST) variability is a crucial first step in unraveling the climate dynamics that drive it. In recent years, ocean temperatures have been rising globally. This project seeks to determine whether variability in model data differs significantly from that in piControl data. The method employed here can also be used to address questions such as when the variability becomes significantly different and what common patterns exist between the two datasets. Additionally, this approach can be applied at a local scale to investigate whether variability in specific study areas has changed.
+
 ---
 Data Description:
 The dataset used is from CMIP6, utilizing the IPSL-CM5A2-INCA model. 
