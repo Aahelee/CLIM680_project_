@@ -82,6 +82,7 @@ Figure 4: Criterion for selecting the number of EOFs
 
 ---
 ![ratio](https://github.com/user-attachments/assets/0f2326d4-e424-4ebe-8f4a-4e33ebe4ab55)
+
 Figure 5: Ratio of the Fraction of Variance Explained by the EOFs of Historical and piControl
 
 To test the significance of the variance ratios of the historical and piControl, a Monte Carlo test was done. The goal here is to understand if the differences you see between two datasets (historical and control in this case) are truly meaningful or just random noise. The Monte Carlo method runs a lot of “what if” scenarios to establish a baseline. A fairly large
