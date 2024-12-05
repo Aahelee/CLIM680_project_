@@ -2,16 +2,15 @@ Assessing Variability in Historical and piControl Sea Surface Temperature Data U
 ---
 ## Introduction
 
-<img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src="https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5a">
-_Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
-<img width="1710" alt="Screenshot 2024-11-20 at 1 42 47 PM" src="https://github.com/user-attachments/assets/f82c7731-d5d5-455c-9918-c749385c3cfb">
+Understanding the sources of Sea Surface Temperature (SST) variability is a crucial first step in unraveling the climate dynamics that drive it. In recent years, ocean temperatures have been rising globally. This project seeks to determine whether variability in model data differs significantly from that in piControl data. The method employed here can also be used to address questions such as when the variability becomes significantly different and what common patterns exist between the two datasets. Additionally, this approach can be applied at a local scale to investigate whether variability in specific study areas has changed.
 
-<img width="1710" alt="Screenshot 2024-11-20 at 1 42 13 PM" src="https://github.com/user-attachments/assets/f140a701-4ace-4651-bbee-8be2da77bd9d">
 
-<img width="1710" alt="Screenshot 2024-11-20 at 1 44 45 PM" src="https://github.com/user-attachments/assets/d8885c80-08c1-4ba0-93a1-89b2c12f6977">
+The goal of the project is to test whether historical data exhibits more variability than the control run. If the historical data shows significantly greater variability, it would suggest an influence from external factors beyond internal processes.
 
-<img width="617" alt="Screen Shot 2023-11-28 at 10 33 09 PM" src=https://github.com/kmbarragan/Clim680_FinalProject/assets/142943607/cc846160-3fbc-4f94-9939-556c54fcdf5](https://github.com/Aahelee/CLIM680_project_/blob/main/figures/climatology.png>
-_Figure 14: Shown is the correlation map between 2 meter temperature and the 500hPa Geopotential height during the CAO list._
+•  **Historical Run**: A simulation of past climate conditions (e.g., 1850–present) using observed external forcings.
+•  **Ensemble**: A set of model simulations with varied initial conditions or parameters to assess variability and uncertainty.
+•  **piControl Run**: A pre-industrial control run simulating a stable climate with fixed pre-1850 forcings for baseline comparisons.
+
 ---
 Data Description:
 The dataset used is from CMIP6, utilizing the IPSL-CM5A2-INCA model. 
